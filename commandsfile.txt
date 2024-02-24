@@ -1,0 +1,17 @@
+lspci
+ls
+cd
+pwd
+whoami
+ps
+chmod
+chown
+cal
+alias
+cat
+which
+tr
+date
+uname
+hostname
+free
